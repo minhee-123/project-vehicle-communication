@@ -41,7 +41,17 @@
 ---
 
 ## 🎬 주요 기능 및 결과물
-수정
+**DoIP 진단통신 데모 영상**
+* 총 7개의 SID(19개의 세부 기능) 시연
+* 데모 영상 및 데모 영상 속 PC 화면 영상
+
+[![DoIP 진단통신 데모 영상](https://img.youtube.com/vi/lH8hOmgvuVs/0.jpg)](https://youtu.be/lH8hOmgvuVs)
+[![DoIP 진단통신 데모 영상(PC 화면)](https://img.youtube.com/vi/n2w35QZUq9Q/0.jpg)](https://youtu.be/n2w35QZUq9Q)
+
+**SOC/OTA 데모 영상**
+* SOC 기능 확인 및 기능 업데이트(OTA) 시연
+
+[![SOC/OTA 데모 영상](https://img.youtube.com/vi/iJHa55MYXpQ/0.jpg)](https://youtu.be/iJHa55MYXpQ)
 
 <br>
 
